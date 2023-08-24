@@ -1,670 +1,670 @@
 [
    {
-      "device_code":"i386",
-      "model_name":"iphone_simulator"
+      "key":"i386",
+      "value":"iphone simulator"
    },
    {
-      "device_code":"x86_64",
-      "model_name":"iphone_simulator"
+      "key":"x86 64",
+      "value":"iphone simulator"
    },
    {
-      "device_code":"arm64",
-      "model_name":"iphone_simulator"
+      "key":"arm64",
+      "value":"iphone simulator"
    },
    {
-      "device_code":"iPhone1,1",
-      "model_name":"iphone"
+      "key":"iPhone1,1",
+      "value":"iphone"
    },
    {
-      "device_code":"iPhone1,2",
-      "model_name":"iphone_3g"
+      "key":"iPhone1,2",
+      "value":"iphone 3g"
    },
    {
-      "device_code":"iPhone2,1",
-      "model_name":"iphone_3gs"
+      "key":"iPhone2,1",
+      "value":"iphone 3gs"
    },
    {
-      "device_code":"iPhone3,1",
-      "model_name":"iphone_4"
+      "key":"iPhone3,1",
+      "value":"iphone 4"
    },
    {
-      "device_code":"iPhone3,2",
-      "model_name":"iphone_4_gsm"
+      "key":"iPhone3,2",
+      "value":"iphone 4 gsm"
    },
    {
-      "device_code":"iPhone3,3",
-      "model_name":"iphone_4_cdma"
+      "key":"iPhone3,3",
+      "value":"iphone 4 cdma"
    },
    {
-      "device_code":"iPhone4,1",
-      "model_name":"iphone_4s"
+      "key":"iPhone4,1",
+      "value":"iphone 4s"
    },
    {
-      "device_code":"iPhone5,1",
-      "model_name":"iphone_5_gsm"
+      "key":"iPhone5,1",
+      "value":"iphone 5 gsm"
    },
    {
-      "device_code":"iPhone5,2",
-      "model_name":"iphone_5_gsm_cdma"
+      "key":"iPhone5,2",
+      "value":"iphone 5 gsm cdma"
    },
    {
-      "device_code":"iPhone5,3",
-      "model_name":"iphone_5c_gsm"
+      "key":"iPhone5,3",
+      "value":"iphone 5c gsm"
    },
    {
-      "device_code":"iPhone5,4",
-      "model_name":"iphone_5c_global"
+      "key":"iPhone5,4",
+      "value":"iphone 5c global"
    },
    {
-      "device_code":"iPhone6,1",
-      "model_name":"iphone_5s_gsm"
+      "key":"iPhone6,1",
+      "value":"iphone 5s gsm"
    },
    {
-      "device_code":"iPhone6,2",
-      "model_name":"iphone_5s_global"
+      "key":"iPhone6,2",
+      "value":"iphone 5s global"
    },
    {
-      "device_code":"iPhone7,1",
-      "model_name":"iphone_6_plus"
+      "key":"iPhone7,1",
+      "value":"iphone 6 plus"
    },
    {
-      "device_code":"iPhone7,2",
-      "model_name":"iphone_6"
+      "key":"iPhone7,2",
+      "value":"iphone 6"
    },
    {
-      "device_code":"iPhone8,1",
-      "model_name":"iphone_6s"
+      "key":"iPhone8,1",
+      "value":"iphone 6s"
    },
    {
-      "device_code":"iPhone8,2",
-      "model_name":"iphone_6s_plus"
+      "key":"iPhone8,2",
+      "value":"iphone 6s plus"
    },
    {
-      "device_code":"iPhone8,4",
-      "model_name":"iphone_se_gsm"
+      "key":"iPhone8,4",
+      "value":"iphone se gsm"
    },
    {
-      "device_code":"iPhone9,1",
-      "model_name":"iphone_7"
+      "key":"iPhone9,1",
+      "value":"iphone 7"
    },
    {
-      "device_code":"iPhone9,2",
-      "model_name":"iphone_7_plus"
+      "key":"iPhone9,2",
+      "value":"iphone 7 plus"
    },
    {
-      "device_code":"iPhone9,3",
-      "model_name":"iphone_7"
+      "key":"iPhone9,3",
+      "value":"iphone 7"
    },
    {
-      "device_code":"iPhone9,4",
-      "model_name":"iphone_7_plus"
+      "key":"iPhone9,4",
+      "value":"iphone 7 plus"
    },
    {
-      "device_code":"iPhone10,1",
-      "model_name":"iphone_8"
+      "key":"iPhone10,1",
+      "value":"iphone 8"
    },
    {
-      "device_code":"iPhone10,2",
-      "model_name":"iphone_8_plus"
+      "key":"iPhone10,2",
+      "value":"iphone 8 plus"
    },
    {
-      "device_code":"iPhone10,3",
-      "model_name":"iphone_x_global"
+      "key":"iPhone10,3",
+      "value":"iphone x global"
    },
    {
-      "device_code":"iPhone10,4",
-      "model_name":"iphone_8"
+      "key":"iPhone10,4",
+      "value":"iphone 8"
    },
    {
-      "device_code":"iPhone10,5",
-      "model_name":"iphone_8_plus"
+      "key":"iPhone10,5",
+      "value":"iphone 8 plus"
    },
    {
-      "device_code":"iPhone10,6",
-      "model_name":"iphone_x_gsm"
+      "key":"iPhone10,6",
+      "value":"iphone x gsm"
    },
    {
-      "device_code":"iPhone11,2",
-      "model_name":"iphone_xs"
+      "key":"iPhone11,2",
+      "value":"iphone xs"
    },
    {
-      "device_code":"iPhone11,4",
-      "model_name":"iphone_xs_max"
+      "key":"iPhone11,4",
+      "value":"iphone xs max"
    },
    {
-      "device_code":"iPhone11,6",
-      "model_name":"iphone_xs_max_global"
+      "key":"iPhone11,6",
+      "value":"iphone xs max global"
    },
    {
-      "device_code":"iPhone11,8",
-      "model_name":"iphone_xr"
+      "key":"iPhone11,8",
+      "value":"iphone xr"
    },
    {
-      "device_code":"iPhone12,1",
-      "model_name":"iphone_11"
+      "key":"iPhone12,1",
+      "value":"iphone 11"
    },
    {
-      "device_code":"iPhone12,3",
-      "model_name":"iphone_11_pro"
+      "key":"iPhone12,3",
+      "value":"iphone 11 pro"
    },
    {
-      "device_code":"iPhone12,5",
-      "model_name":"iphone_11_pro_max"
+      "key":"iPhone12,5",
+      "value":"iphone 11 pro max"
    },
    {
-      "device_code":"iPhone12,8",
-      "model_name":"iphone_se_2nd_gen"
+      "key":"iPhone12,8",
+      "value":"iphone se 2nd gen"
    },
    {
-      "device_code":"iPhone13,1",
-      "model_name":"iphone_12_mini"
+      "key":"iPhone13,1",
+      "value":"iphone 12 mini"
    },
    {
-      "device_code":"iPhone13,2",
-      "model_name":"iphone_12"
+      "key":"iPhone13,2",
+      "value":"iphone 12"
    },
    {
-      "device_code":"iPhone13,3",
-      "model_name":"iphone_12_pro"
+      "key":"iPhone13,3",
+      "value":"iphone 12 pro"
    },
    {
-      "device_code":"iPhone13,4",
-      "model_name":"iphone_12_pro_max"
+      "key":"iPhone13,4",
+      "value":"iphone 12 pro max"
    },
    {
-      "device_code":"iPhone14,2",
-      "model_name":"iPhone_13_pro"
+      "key":"iPhone14,2",
+      "value":"iPhone 13 pro"
    },
    {
-      "device_code":"iPhone14,3",
-      "model_name":"iPhone_13_pro_max"
+      "key":"iPhone14,3",
+      "value":"iPhone 13 pro max"
    },
    {
-      "device_code":"iPhone14,4",
-      "model_name":"iPhone_13_mini"
+      "key":"iPhone14,4",
+      "value":"iPhone 13 mini"
    },
    {
-      "device_code":"iPhone14,5",
-      "model_name":"iPhone_13"
+      "key":"iPhone14,5",
+      "value":"iPhone 13"
    },
    {
-      "device_code":"iPhone14,6",
-      "model_name":"iPhone_se_3rd_gen"
+      "key":"iPhone14,6",
+      "value":"iPhone se 3rd gen"
    },
    {
-      "device_code":"iPhone14,7",
-      "model_name":"iPhone_14"
+      "key":"iPhone14,7",
+      "value":"iPhone 14"
    },
    {
-      "device_code":"iPhone14,8",
-      "model_name":"iPhone_14_plus"
+      "key":"iPhone14,8",
+      "value":"iPhone 14 plus"
    },
    {
-      "device_code":"iPhone15,2",
-      "model_name":"iPhone_14_pro"
+      "key":"iPhone15,2",
+      "value":"iPhone 14 pro"
    },
    {
-      "device_code":"iPhone15,3",
-      "model_name":"iPhone_14_pro_max"
+      "key":"iPhone15,3",
+      "value":"iPhone 14 pro max"
    },
    {
-      "device_code":"iPod1,1",
-      "model_name":"ipod_1st"
+      "key":"iPod1,1",
+      "value":"ipod 1st"
    },
    {
-      "device_code":"iPod2,1",
-      "model_name":"ipod_2nd"
+      "key":"iPod2,1",
+      "value":"ipod 2nd"
    },
    {
-      "device_code":"iPod3,1",
-      "model_name":"ipod_3rd"
+      "key":"iPod3,1",
+      "value":"ipod 3rd"
    },
    {
-      "device_code":"iPod4,1",
-      "model_name":"ipod_4th"
+      "key":"iPod4,1",
+      "value":"ipod 4th"
    },
    {
-      "device_code":"iPod5,1",
-      "model_name":"ipod_5th"
+      "key":"iPod5,1",
+      "value":"ipod 5th"
    },
    {
-      "device_code":"iPod7,1",
-      "model_name":"ipod_6th"
+      "key":"iPod7,1",
+      "value":"ipod 6th"
    },
    {
-      "device_code":"iPod9,1",
-      "model_name":"ipod_7th"
+      "key":"iPod9,1",
+      "value":"ipod 7th"
    },
    {
-      "device_code":"iPad1,1",
-      "model_name":"ipad_1st_wifi"
+      "key":"iPad1,1",
+      "value":"ipad 1st wifi"
    },
    {
-      "device_code":"iPad1,2",
-      "model_name":"ipad_1st_3g"
+      "key":"iPad1,2",
+      "value":"ipad 1st 3g"
    },
    {
-      "device_code":"iPad2,1",
-      "model_name":"ipad_2nd_wifi"
+      "key":"iPad2,1",
+      "value":"ipad 2nd wifi"
    },
    {
-      "device_code":"iPad2,2",
-      "model_name":"ipad_2nd_gsm"
+      "key":"iPad2,2",
+      "value":"ipad 2nd gsm"
    },
    {
-      "device_code":"iPad2,3",
-      "model_name":"ipad 2nd_cdma"
+      "key":"iPad2,3",
+      "value":"ipad 2nd cdma"
    },
    {
-      "device_code":"iPad2,4",
-      "model_name":"ipad_2nd"
+      "key":"iPad2,4",
+      "value":"ipad 2nd"
    },
    {
-      "device_code":"iPad2,5",
-      "model_name":"ipad_mini_1st_wifi"
+      "key":"iPad2,5",
+      "value":"ipad mini 1st wifi"
    },
    {
-      "device_code":"iPad2,6",
-      "model_name":"ipad_mini_1st_gsm_lte"
+      "key":"iPad2,6",
+      "value":"ipad mini 1st gsm lte"
    },
    {
-      "device_code":"iPad2,7",
-      "model_name":"ipad_mini_1st_cdma_lte"
+      "key":"iPad2,7",
+      "value":"ipad mini 1st cdma lte"
    },
    {
-      "device_code":"iPad3,1",
-      "model_name":"ipad_3rd_wifi"
+      "key":"iPad3,1",
+      "value":"ipad 3rd wifi"
    },
    {
-      "device_code":"iPad3,2",
-      "model_name":"ipad_3rd_cdma"
+      "key":"iPad3,2",
+      "value":"ipad 3rd cdma"
    },
    {
-      "device_code":"iPad3,3",
-      "model_name":"ipad_3rd_gsm"
+      "key":"iPad3,3",
+      "value":"ipad 3rd gsm"
    },
    {
-      "device_code":"iPad3,4",
-      "model_name":"ipad_4th_wifi"
+      "key":"iPad3,4",
+      "value":"ipad 4th wifi"
    },
    {
-      "device_code":"iPad3,5",
-      "model_name":"ipad_4th_gsm_lte"
+      "key":"iPad3,5",
+      "value":"ipad 4th gsm lte"
    },
    {
-      "device_code":"iPad3,6",
-      "model_name":"ipad_4th_cdma_lte"
+      "key":"iPad3,6",
+      "value":"ipad 4th cdma lte"
    },
    {
-      "device_code":"iPad4,1",
-      "model_name":"ipad_air_1st_wifi"
+      "key":"iPad4,1",
+      "value":"ipad air 1st wifi"
    },
    {
-      "device_code":"iPad4,2",
-      "model_name":"ipad_air_1st_gsm_cdma"
+      "key":"iPad4,2",
+      "value":"ipad air 1st gsm cdma"
    },
    {
-      "device_code":"iPad4,3",
-      "model_name":"ipad_air_1st"
+      "key":"iPad4,3",
+      "value":"ipad air 1st"
    },
    {
-      "device_code":"iPad4,4",
-      "model_name":"ipad_mini_2nd_wifi"
+      "key":"iPad4,4",
+      "value":"ipad mini 2nd wifi"
    },
    {
-      "device_code":"iPad4,5",
-      "model_name":"ipad_mini_2nd_wifi_cellular"
+      "key":"iPad4,5",
+      "value":"ipad mini 2nd wifi cellular"
    },
    {
-      "device_code":"iPad4,6",
-      "model_name":"ipad_mini_2nd"
+      "key":"iPad4,6",
+      "value":"ipad mini 2nd"
    },
    {
-      "device_code":"iPad4,7",
-      "model_name":"ipad_mini_3rd_wifi"
+      "key":"iPad4,7",
+      "value":"ipad mini 3rd wifi"
    },
    {
-      "device_code":"iPad4,8",
-      "model_name":"ipad_mini_3rd_wifi_cellular"
+      "key":"iPad4,8",
+      "value":"ipad mini 3rd wifi cellular"
    },
    {
-      "device_code":"iPad4,9",
-      "model_name":"ipad_mini_3rd"
+      "key":"iPad4,9",
+      "value":"ipad mini 3rd"
    },
    {
-      "device_code":"iPad5,1",
-      "model_name":"ipad_mini_4th_wifi"
+      "key":"iPad5,1",
+      "value":"ipad mini 4th wifi"
    },
    {
-      "device_code":"iPad5,2",
-      "model_name":"ipad_mini_4th_wifi_cellular"
+      "key":"iPad5,2",
+      "value":"ipad mini 4th wifi cellular"
    },
    {
-      "device_code":"iPad5,3",
-      "model_name":"ipad_air_2_wifi"
+      "key":"iPad5,3",
+      "value":"ipad air 2 wifi"
    },
    {
-      "device_code":"iPad5,4",
-      "model_name":"ipad_air_2_wifi_cellular"
+      "key":"iPad5,4",
+      "value":"ipad air 2 wifi cellular"
    },
    {
-      "device_code":"iPad6,3",
-      "model_name":"ipad_pro_1st_9_7_wifi"
+      "key":"iPad6,3",
+      "value":"ipad pro 1st 9 7 wifi"
    },
    {
-      "device_code":"iPad6,4",
-      "model_name":"ipad_pro_1st_9_7_wifi_cellular"
+      "key":"iPad6,4",
+      "value":"ipad pro 1st 9 7 wifi cellular"
    },
    {
-      "device_code":"iPad6,7",
-      "model_name":"ipad_pro_1st_12_9_wifi"
+      "key":"iPad6,7",
+      "value":"ipad pro 1st 12 9 wifi"
    },
    {
-      "device_code":"iPad6,8",
-      "model_name":"ipad_pro_1st_12_9_wifi_cellular"
+      "key":"iPad6,8",
+      "value":"ipad pro 1st 12 9 wifi cellular"
    },
    {
-      "device_code":"iPad6,11",
-      "model_name":"ipad_5th_wifi"
+      "key":"iPad6,11",
+      "value":"ipad 5th wifi"
    },
    {
-      "device_code":"iPad6,12",
-      "model_name":"ipad_5th_wifi_cellular"
+      "key":"iPad6,12",
+      "value":"ipad 5th wifi cellular"
    },
    {
-      "device_code":"iPad7,1",
-      "model_name":"ipad_pro_2nd_12_9_wifi"
+      "key":"iPad7,1",
+      "value":"ipad pro 2nd 12 9 wifi"
    },
    {
-      "device_code":"iPad7,2",
-      "model_name":"ipad_pro_2nd_12_9_wifi_cellular"
+      "key":"iPad7,2",
+      "value":"ipad pro 2nd 12 9 wifi cellular"
    },
    {
-      "device_code":"iPad7,3",
-      "model_name":"ipad_pro 2nd_10_5_wifi"
+      "key":"iPad7,3",
+      "value":"ipad pro 2nd 10 5 wifi"
    },
    {
-      "device_code":"iPad7,4",
-      "model_name":"ipad_pro 2nd_10_5_wifi_cellular"
+      "key":"iPad7,4",
+      "value":"ipad pro 2nd 10 5 wifi cellular"
    },
    {
-      "device_code":"iPad7,5",
-      "model_name":"ipad_6th_wifi"
+      "key":"iPad7,5",
+      "value":"ipad 6th wifi"
    },
    {
-      "device_code":"iPad7,6",
-      "model_name":"ipad_6th_wifi_cellular"
+      "key":"iPad7,6",
+      "value":"ipad 6th wifi cellular"
    },
    {
-      "device_code":"iPad7,11",
-      "model_name":"ipad_7th_10_2_wifi"
+      "key":"iPad7,11",
+      "value":"ipad 7th 10 2 wifi"
    },
    {
-      "device_code":"iPad7,12",
-      "model_name":"ipad_7th_10_2_wifi_cellular"
+      "key":"iPad7,12",
+      "value":"ipad 7th 10 2 wifi cellular"
    },
    {
-      "device_code":"iPad8,1",
-      "model_name":"ipad_pro_3rd_11_wifi"
+      "key":"iPad8,1",
+      "value":"ipad pro 3rd 11 wifi"
    },
    {
-      "device_code":"iPad8,2",
-      "model_name":"ipad_pro_3rd_11_wifi_1tb"
+      "key":"iPad8,2",
+      "value":"ipad pro 3rd 11 wifi 1tb"
    },
    {
-      "device_code":"iPad8,3",
-      "model_name":"ipad_pro_3rd_11_wifi_cellular"
+      "key":"iPad8,3",
+      "value":"ipad pro 3rd 11 wifi cellular"
    },
    {
-      "device_code":"iPad8,4",
-      "model_name":"ipad_pro_3rd_11_wifi_cellular_1tb"
+      "key":"iPad8,4",
+      "value":"ipad pro 3rd 11 wifi cellular 1tb"
    },
    {
-      "device_code":"iPad8,5",
-      "model_name":"ipad_pro_3rd_12_9_wifi"
+      "key":"iPad8,5",
+      "value":"ipad pro 3rd 12 9 wifi"
    },
    {
-      "device_code":"iPad8,6",
-      "model_name":"ipad_pro_3rd_12_9_wifi_1tb"
+      "key":"iPad8,6",
+      "value":"ipad pro 3rd 12 9 wifi 1tb"
    },
    {
-      "device_code":"iPad8,7",
-      "model_name":"ipad_pro_3rd_12_9_wifi_cellular"
+      "key":"iPad8,7",
+      "value":"ipad pro 3rd 12 9 wifi cellular"
    },
    {
-      "device_code":"iPad8,8",
-      "model_name":"ipad_pro_3rd_12_9_wifi_cellular_1tb"
+      "key":"iPad8,8",
+      "value":"ipad pro 3rd 12 9 wifi cellular 1tb"
    },
    {
-      "device_code":"iPad8,9",
-      "model_name":"ipad_pro_2nd_11_wifi"
+      "key":"iPad8,9",
+      "value":"ipad pro 2nd 11 wifi"
    },
    {
-      "device_code":"iPad8,10",
-      "model_name":"ipad_pro_2nd_11_wifi_cellular"
+      "key":"iPad8,10",
+      "value":"ipad pro 2nd 11 wifi cellular"
    },
    {
-      "device_code":"iPad8,11",
-      "model_name":"ipad_pro_4th_12_9_wifi"
+      "key":"iPad8,11",
+      "value":"ipad pro 4th 12 9 wifi"
    },
    {
-      "device_code":"iPad8,12",
-      "model_name":"ipad_pro_4th_12_9_wifi_cellular"
+      "key":"iPad8,12",
+      "value":"ipad pro 4th 12 9 wifi cellular"
    },
    {
-      "device_code":"iPad11,1",
-      "model_name":"ipad_mini_5th_wifi"
+      "key":"iPad11,1",
+      "value":"ipad mini 5th wifi"
    },
    {
-      "device_code":"iPad11,2",
-      "model_name":"ipad_mini_5th_wifi_cellular"
+      "key":"iPad11,2",
+      "value":"ipad mini 5th wifi cellular"
    },
    {
-      "device_code":"iPad11,3",
-      "model_name":"ipad_air_3rd_wifi"
+      "key":"iPad11,3",
+      "value":"ipad air 3rd wifi"
    },
    {
-      "device_code":"iPad11,4",
-      "model_name":"ipad_air_3rd_wifi_cellular"
+      "key":"iPad11,4",
+      "value":"ipad air 3rd wifi cellular"
    },
    {
-      "device_code":"iPad11,6",
-      "model_name":"ipad_8th_wifi"
+      "key":"iPad11,6",
+      "value":"ipad 8th wifi"
    },
    {
-      "device_code":"iPad11,7",
-      "model_name":"ipad_8th_wifi_cellular"
+      "key":"iPad11,7",
+      "value":"ipad 8th wifi cellular"
    },
    {
-      "device_code":"iPad12,1",
-      "model_name":"ipad_pro_11_3rd"
+      "key":"iPad12,1",
+      "value":"ipad pro 11 3rd"
    },
    {
-      "device_code":"iPad12,2",
-      "model_name":"ipad_9th_wifi_cellular"
+      "key":"iPad12,2",
+      "value":"ipad 9th wifi cellular"
    },
    {
-      "device_code":"iPad13,1",
-      "model_name":"ipad_air_4th_wifi"
+      "key":"iPad13,1",
+      "value":"ipad air 4th wifi"
    },
    {
-      "device_code":"iPad13,2",
-      "model_name":"ipad_air_4th_wifi_cellular"
+      "key":"iPad13,2",
+      "value":"ipad air 4th wifi cellular"
    },
    {
-      "device_code":"iPad13,4",
-      "model_name":"ipad_pro_11_3rd"
+      "key":"iPad13,4",
+      "value":"ipad pro 11 3rd"
    },
    {
-      "device_code":"iPad13,5",
-      "model_name":"ipad_pro_11_3rd"
+      "key":"iPad13,5",
+      "value":"ipad pro 11 3rd"
    },
    {
-      "device_code":"iPad13,6",
-      "model_name":"ipad_pro_11_3rd"
+      "key":"iPad13,6",
+      "value":"ipad pro 11 3rd"
    },
    {
-      "device_code":"iPad13,7",
-      "model_name":"ipad_pro_11_3rd"
+      "key":"iPad13,7",
+      "value":"ipad pro 11 3rd"
    },
    {
-      "device_code":"iPad13,8",
-      "model_name":"ipad_pro_12_9_5th"
+      "key":"iPad13,8",
+      "value":"ipad pro 12 9 5th"
    },
    {
-      "device_code":"iPad13,9",
-      "model_name":"ipad_pro_12_9_5th"
+      "key":"iPad13,9",
+      "value":"ipad pro 12 9 5th"
    },
    {
-      "device_code":"iPad13,10",
-      "model_name":"ipad_pro_12_9_5th"
+      "key":"iPad13,10",
+      "value":"ipad pro 12 9 5th"
    },
    {
-      "device_code":"iPad13,11",
-      "model_name":"ipad_pro_12_9_5th"
+      "key":"iPad13,11",
+      "value":"ipad pro 12 9 5th"
    },
    {
-      "device_code":"iPad13,16",
-      "model_name":"ipad_air_5th_wifi"
+      "key":"iPad13,16",
+      "value":"ipad air 5th wifi"
    },
    {
-      "device_code":"iPad13,17",
-      "model_name":"ipad_air_5th_wifi_cellular"
+      "key":"iPad13,17",
+      "value":"ipad air 5th wifi cellular"
    },
    {
-      "device_code":"iPad13,18",
-      "model_name":"ipad_10th"
+      "key":"iPad13,18",
+      "value":"ipad 10th"
    },
    {
-      "device_code":"iPad13,19",
-      "model_name":"ipad_10th"
+      "key":"iPad13,19",
+      "value":"ipad 10th"
    },
    {
-      "device_code":"iPad14,1",
-      "model_name":"ipad_mini_6_wifi"
+      "key":"iPad14,1",
+      "value":"ipad mini 6 wifi"
    },
    {
-      "device_code":"iPad14,2",
-      "model_name":"ipad_mini_6_wifi_cellular"
+      "key":"iPad14,2",
+      "value":"ipad mini 6 wifi cellular"
    },
    {
-      "device_code":"iPad14,3",
-      "model_name":"ipad_pro_11_4th"
+      "key":"iPad14,3",
+      "value":"ipad pro 11 4th"
    },
    {
-      "device_code":"iPad14,4",
-      "model_name":"ipad_pro_11_4th"
+      "key":"iPad14,4",
+      "value":"ipad pro 11 4th"
    },
    {
-      "device_code":"iPad14,5",
-      "model_name":"ipad_pro_12_9_6th"
+      "key":"iPad14,5",
+      "value":"ipad pro 12 9 6th"
    },
    {
-      "device_code":"iPad14,6",
-      "model_name":"ipad_pro_12_9_6th"
+      "key":"iPad14,6",
+      "value":"ipad pro 12 9 6th"
    },
    {
-      "device_code":"Watch1,1",
-      "model_name":"apple_watch_1st_38"
+      "key":"Watch1,1",
+      "value":"apple watch 1st 38"
    },
    {
-      "device_code":"Watch1,2",
-      "model_name":"apple_watch_1st_42"
+      "key":"Watch1,2",
+      "value":"apple watch 1st 42"
    },
    {
-      "device_code":"Watch2,6",
-      "model_name":"apple_watch_series_1_38"
+      "key":"Watch2,6",
+      "value":"apple watch series 1 38"
    },
    {
-      "device_code":"Watch2,7",
-      "model_name":"apple_watch_series_1_42"
+      "key":"Watch2,7",
+      "value":"apple watch series 1 42"
    },
    {
-      "device_code":"Watch2,3",
-      "model_name":"apple_watch_series_2_38"
+      "key":"Watch2,3",
+      "value":"apple watch series 2 38"
    },
    {
-      "device_code":"Watch2,4",
-      "model_name":"apple_watch_series_2_42"
+      "key":"Watch2,4",
+      "value":"apple watch series 2 42"
    },
    {
-      "device_code":"Watch3,1",
-      "model_name":"apple_watch_series_3_38_gps_cellular"
+      "key":"Watch3,1",
+      "value":"apple watch series 3 38 gps cellular"
    },
    {
-      "device_code":"Watch3,2",
-      "model_name":"apple_watch_series_3_42_gps_cellular"
+      "key":"Watch3,2",
+      "value":"apple watch series 3 42 gps cellular"
    },
    {
-      "device_code":"Watch3,3",
-      "model_name":"apple_watch_series_3_38_gps"
+      "key":"Watch3,3",
+      "value":"apple watch series 3 38 gps"
    },
    {
-      "device_code":"Watch3,4",
-      "model_name":"apple_watch_series_3_42_gps"
+      "key":"Watch3,4",
+      "value":"apple watch series 3 42 gps"
    },
    {
-      "device_code":"Watch4,1",
-      "model_name":"apple_watch_series_4_40_gps"
+      "key":"Watch4,1",
+      "value":"apple watch series 4 40 gps"
    },
    {
-      "device_code":"Watch4,2",
-      "model_name":"apple_watch_series_4_44_gps"
+      "key":"Watch4,2",
+      "value":"apple watch series 4 44 gps"
    },
    {
-      "device_code":"Watch4,3",
-      "model_name":"apple_watch_series_4_40_gps_cellular"
+      "key":"Watch4,3",
+      "value":"apple watch series 4 40 gps cellular"
    },
    {
-      "device_code":"Watch4,4",
-      "model_name":"apple_watch_series_4_44_gps_cellular"
+      "key":"Watch4,4",
+      "value":"apple watch series 4 44 gps cellular"
    },
    {
-      "device_code":"Watch5,1",
-      "model_name":"apple_watch_series_5_40_gps"
+      "key":"Watch5,1",
+      "value":"apple watch series 5 40 gps"
    },
    {
-      "device_code":"Watch5,2",
-      "model_name":"apple_watch_series_5_44_gps"
+      "key":"Watch5,2",
+      "value":"apple watch series 5 44 gps"
    },
    {
-      "device_code":"Watch5,3",
-      "model_name":"apple_watch_series_5_40_gps_cellular"
+      "key":"Watch5,3",
+      "value":"apple watch series 5 40 gps cellular"
    },
    {
-      "device_code":"Watch5,4",
-      "model_name":"apple_watch_series_5_44_gps_cellular"
+      "key":"Watch5,4",
+      "value":"apple watch series 5 44 gps cellular"
    },
    {
-      "device_code":"Watch5,9",
-      "model_name":"apple_watch_se_40_gps"
+      "key":"Watch5,9",
+      "value":"apple watch se 40 gps"
    },
    {
-      "device_code":"Watch5,10",
-      "model_name":"apple_watch_se_44_gps"
+      "key":"Watch5,10",
+      "value":"apple watch se 44 gps"
    },
    {
-      "device_code":"Watch5,11",
-      "model_name":"apple_watch_se_40_gps_cellular"
+      "key":"Watch5,11",
+      "value":"apple watch se 40 gps cellular"
    },
    {
-      "device_code":"Watch5,12",
-      "model_name":"apple_watch_se_44_gps_cellular"
+      "key":"Watch5,12",
+      "value":"apple watch se 44 gps cellular"
    },
    {
-      "device_code":"Watch6,1",
-      "model_name":"apple_watch_series_6_40_gps"
+      "key":"Watch6,1",
+      "value":"apple watch series 6 40 gps"
    },
    {
-      "device_code":"Watch6,2",
-      "model_name":"apple_watch_series_6_44_gps"
+      "key":"Watch6,2",
+      "value":"apple watch series 6 44 gps"
    },
    {
-      "device_code":"Watch6,3",
-      "model_name":"apple_watch_series_6_40_gps_cellular"
+      "key":"Watch6,3",
+      "value":"apple watch series 6 40 gps cellular"
    },
    {
-      "device_code":"Watch6,4",
-      "model_name":"apple_watch_series_6_44_gps_cellular"
+      "key":"Watch6,4",
+      "value":"apple watch series 6 44 gps cellular"
    }
 ]
