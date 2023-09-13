@@ -208,6 +208,22 @@
       "value":"iPhone 14 pro max"
    },
    {
+      "key":"iPhone15,4",
+      "value":"iPhone 15"
+   },
+   {
+      "key":"iPhone15,5",
+      "value":"iPhone 15 Plus"
+   },
+   {
+      "key":"iPhone16,1",
+      "value":"iPhone 15 Pro"
+   },
+   {
+      "key":"iPhone16,2",
+      "value":"iPhone 15 Pro Max"
+   },
+   {
       "key":"iPod1,1",
       "value":"ipod 1st"
    },
